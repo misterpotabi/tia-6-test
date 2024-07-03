@@ -15,7 +15,7 @@ function draw() {
     ambientLight(colors);
   }
 
-  box(150,150);
+  sphere(150);
 }
 
 // membuat fungsi agar sphere bisa berubah warna
